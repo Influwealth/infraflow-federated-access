@@ -1,0 +1,10 @@
+{
+  "name": "ifa-wrk-radio-cbrs",
+  "version": "1.0.0",
+  "description": "InfraFlow worker for CBRS radio telemetry, heartbeats, and command execution.",
+  "deviceType": "radio",
+  "site": "site_alpha",
+  "deviceId": "dev_radio_001",
+  "heartbeatIntervalMs": 5000,
+  "telemetryIntervalMs": 10000
+}

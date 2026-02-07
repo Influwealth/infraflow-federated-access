@@ -1,3 +1,15 @@
 [submodule "apps/mcp-ui"]
 	path = apps/mcp-ui
 	url = https://github.com/MCP-UI-Org/mcp-ui.git
+[submodule "siteops/mos-upstream/miningos-wrk-ork"]
+	path = siteops/mos-upstream/miningos-wrk-ork
+	url = https://github.com/tetherto/miningos-wrk-ork.git
+[submodule "siteops/mos-upstream/miningos-app-node"]
+	path = siteops/mos-upstream/miningos-app-node
+	url = https://github.com/tetherto/miningos-app-node.git
+[submodule "siteops/mos-upstream/miningos-app-ui"]
+	path = siteops/mos-upstream/miningos-app-ui
+	url = https://github.com/tetherto/miningos-app-ui.git
+[submodule "siteops/mos-upstream/miningos-wrk-miner-antminer"]
+	path = siteops/mos-upstream/miningos-wrk-miner-antminer
+	url = https://github.com/tetherto/miningos-wrk-miner-antminer.git
